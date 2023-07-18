@@ -16,5 +16,4 @@ While the path of entrepreneurship is not without its challenges, "The Agile Ent
 
 So, are you ready to embark on this transformative journey? Let's dive into the world of agile entrepreneurship and rewrite the rules of success in a fast-changing world together!
 
-
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
