@@ -2,7 +2,6 @@
 
 - [Introduction](README.md)
   - [Explanation of the book's purpose and goals](chapter-1-1.md)
-  - [Overview of the contents and structure of the book](chapter-1-2.md)
 - [Chapter 1: Understanding Agile Entrepreneurship](chapter-2.md)
   - [Defining agile entrepreneurship and its history](chapter-2-1.md)
   - [The benefits of using agile methodologies for entrepreneurship](chapter-2-2.md)
