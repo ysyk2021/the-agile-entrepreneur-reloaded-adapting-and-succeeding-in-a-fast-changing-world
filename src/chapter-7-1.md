@@ -1,5 +1,3 @@
-Techniques for Managing Risk and Uncertainty in an Agile Environment
-======================================================================================================================================
 
 Managing risk and uncertainty is critical for success in an agile environment. To mitigate risks and uncertainties, it is essential to use specific techniques that can help you anticipate potential issues and develop effective contingency plans. In this chapter, we will explore some key techniques for managing risk and uncertainty in an agile environment.
 

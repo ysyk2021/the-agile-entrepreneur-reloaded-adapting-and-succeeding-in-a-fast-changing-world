@@ -1,5 +1,3 @@
-Chapter 7: Measuring Success
-============================
 
 Measuring success is a critical component of agile entrepreneurship. In this chapter, we will explore the importance of measuring success in agile entrepreneurship, key metrics for tracking progress and success, and how to use data to make informed decisions about future agile initiatives.
 

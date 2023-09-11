@@ -1,5 +1,3 @@
-Chapter 2: Assessing Your Entrepreneurial Agility
-=================================================
 
 Assessing your entrepreneurial agility is essential for adapting to change and continuously improving your strategies. In this chapter, we will explore techniques for assessing your current level of entrepreneurial agility, identifying areas for improvement, and overcoming common barriers to entrepreneurial agility assessment.
 

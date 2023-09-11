@@ -1,5 +1,3 @@
-Techniques for Assessing Your Current Level of Entrepreneurial Agility
-===============================================================================
 
 In this chapter, we will explore techniques and methods for assessing your current level of entrepreneurial agility. Understanding where you stand in terms of agility can help you identify areas for improvement and develop strategies to adapt and succeed in a fast-changing world. Let's dive into the various assessment techniques!
 

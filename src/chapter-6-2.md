@@ -1,5 +1,3 @@
-Strategies for Collecting Customer Feedback and Data to Inform Business Decisions
-==========================================================================================================================================
 
 Collecting customer feedback and data is a crucial part of testing and refining an agile business model. In this chapter, we will explore some strategies you can use to gather valuable insights from your customers.
 

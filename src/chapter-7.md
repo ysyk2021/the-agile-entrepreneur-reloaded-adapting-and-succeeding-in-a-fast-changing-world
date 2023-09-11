@@ -1,5 +1,3 @@
-Chapter 6: Managing Risk and Uncertainty in an Agile Environment
-================================================================
 
 Managing risk and uncertainty is critical for success in an agile environment. In this chapter, we will explore techniques for managing risk and uncertainty in an agile environment, strategies for developing contingency plans and adapting to unexpected changes, and common challenges that entrepreneurs face when managing risk and uncertainty in an agile environment.
 

@@ -1,5 +1,3 @@
-Chapter 4: Building an Agile Team
-=================================
 
 Building an agile team is crucial for success in a fast-changing business environment. In this chapter, we will explore techniques for building an agile team that can adapt to changing circumstances, strategies for empowering team members and fostering collaboration, and how to overcome common challenges with building an agile team.
 

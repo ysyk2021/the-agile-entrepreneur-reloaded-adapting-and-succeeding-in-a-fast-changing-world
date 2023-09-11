@@ -1,5 +1,3 @@
-Chapter 3: Applying Agile Methodologies to Business Planning
-============================================================
 
 Agile methodologies are not just for software development. They can be applied to business planning and development to help entrepreneurs adapt to change and continuously improve their strategies. In this chapter, we will explore strategies for applying agile methodologies to business planning and development, techniques for identifying and prioritizing key business objectives, and how to overcome common challenges with agile business planning.
 
